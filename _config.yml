@@ -1,13 +1,13 @@
 # Site settings
 title: YSA Blog
 SEOTitle: YSA的博客 | YSA Blog
-header-img: img/IMYSA.png
+header-img: img/post-bg-miui6.jpg
 email: 2865885026@qq.com
 description: "I'm YSA."
 keyword: "YSA, YSA Blog, YSA的博客, 殷守昂"
 url: "http://IMYSA.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/IMYSA/IMYSA.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
